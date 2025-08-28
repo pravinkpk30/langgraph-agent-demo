@@ -1,0 +1,6 @@
+langgraph
+langchain
+langsmith
+groq
+langchain-groq
+langchain_tavily
