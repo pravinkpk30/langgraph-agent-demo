@@ -4,3 +4,5 @@ langsmith
 groq
 langchain-groq
 langchain_tavily
+dotenv
+langchain_community
